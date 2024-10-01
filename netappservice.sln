@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netappservice", "netappservice.csproj", "{658761E8-7035-410B-937F-1FB7D16DDE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658761E8-7035-410B-937F-1FB7D16DDE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658761E8-7035-410B-937F-1FB7D16DDE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658761E8-7035-410B-937F-1FB7D16DDE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658761E8-7035-410B-937F-1FB7D16DDE03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4279995C-47C8-4902-BF23-AB4E94C9DAD3}
+	EndGlobalSection
+EndGlobal

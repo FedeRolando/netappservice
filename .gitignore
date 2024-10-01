@@ -1,0 +1,2 @@
+# Ignorar archivos temporales y configuraciones locales de Visual Studio
+.vs/

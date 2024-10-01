@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "65YkCESmWXz3oRChCOPNBS2Ny4NjWGcocJ0j3RnEAVk=",
+  "Source": "netappservice",
+  "BasePath": "_content/netappservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
